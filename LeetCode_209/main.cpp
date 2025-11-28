@@ -1,4 +1,4 @@
-#include "MinLength_SubArray.cpp"
+#include "MinLength_SubArray.h"
 
 int main()
 {
