@@ -1,4 +1,4 @@
-#include "order_array_square.cpp"
+#include "order_array_square.h"
 
 int main()
 {
